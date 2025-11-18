@@ -1,5 +1,7 @@
 #Q5
-#output = 18, 15
+#output = 
+# 18.0
+# 15.0
 
 #Q6
 def make_notification(user, *messages, urgent=False):
